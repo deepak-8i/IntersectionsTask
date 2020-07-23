@@ -1,4 +1,4 @@
-# IntersectionsTask
+# Intersections Task
 
 Intersections task
 
